@@ -36,3 +36,13 @@ th, td {
 .leave-selected {
     background-color: #ffcccb;
 }
+
+.submit-container {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+}
